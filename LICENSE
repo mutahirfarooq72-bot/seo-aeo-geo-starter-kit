@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SEO, AEO & GEO Ready Page Template</title>
+  <meta name="description" content="A clean semantic HTML5 starter template optimized for search engines, answer engines, and generative AI." />
+  <link rel="canonical" href="https://example.com/" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What makes a webpage ready for AEO and GEO?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Clear semantic HTML5 structure, concise direct-answer paragraphs under question headings, and valid JSON-LD schema markup."
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <header>
+    <h1>Primary Page Topic</h1>
+  </header>
+  <main>
+    <article>
+      <h2>What is Answer Engine Optimization?</h2>
+      <p>Answer Engine Optimization (AEO) structures web content so search engines and AI assistants can extract direct, accurate answers.</p>
+    </article>
+  </main>
+  <footer>
+    <p>&copy; 2026 Open Source SEO/AEO/GEO Starter Kit</p>
+  </footer>
+</body>
+</html>
